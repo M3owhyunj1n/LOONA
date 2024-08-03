@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+.contenedor{
+    padding: 10px 60px;
+}
+header{
+    background-color: rgb(41, 98, 172);
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
